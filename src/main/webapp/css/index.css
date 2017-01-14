@@ -1,0 +1,9 @@
+.tt{
+    border-collapse: collapse;
+    margin:20px auto;
+}
+
+.tt td,.tt th{
+    padding: 5px;
+    border: 1px solid #000;
+}
